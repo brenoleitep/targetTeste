@@ -14,7 +14,3 @@ export function calcularSoma(INDICE) {
 
   return SOMA;
 }
-
-// Chamada da função
-let INDICE = 13;
-let resultado = calcularSoma(INDICE);
